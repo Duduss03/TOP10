@@ -34,10 +34,13 @@ main.topContent {
     margin-top: 10px;
     margin-bottom: 10px;
     text-align: center;
+    font-weight: bold;
+    color: orangered;
+    font-size: x-large;
+    font-family: "Yu Gothic UI Semibold";
 }
 
 .ant-layout-sider-light {
-    background: white;
 }
 
 #image {
