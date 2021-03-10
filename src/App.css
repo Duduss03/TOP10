@@ -1,38 +1,55 @@
-.App {
-  text-align: center;
+
+#mainView {
+    max-width: 1500px;
+    min-width: 800px;
+    margin: auto;
+    height: 100vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+header.ant-layout-header {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 77px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+ul.navMenu {
+    margin: auto auto 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid 1px #555;
+    background-color: #eed;
+    border-radius:25px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+main.ant-layout-content {
+    padding-top: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+main.topContent {
+    height: 100px;
+    flex: none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.centered {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.ant-layout-sider-light {
+    background: white;
+}
+
+#image {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#description {
+    padding: 0 100px 0 20px;
+}
+
+p.description {
+    padding: 10px 0 10px 0;
+    text-align: justify;
 }

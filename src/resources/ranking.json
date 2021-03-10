@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "platformName": "Netflix",
+    "platformItems": [
+      {
+        "id": 1,
+        "name": "Criminal Minds",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71k3t6FkTFL._AC_SY679_.jpg",
+        "description": "Serial ''Zabójcze umysły'' skupia się na pracy członków Jednostki Analiz behawioralnych, którzy pomagają w schwytaniu najgroźniejszych przestępców. Ich zadaniem jest przede wszystkim zbadanie psychiki kryminalistów, aby możliwe było wniknięcie w ich umysł i łatwiejsze zakończenie danej sprawy. W każdym odcinku członkowie elitarnej grupy zajmują się oddzielną sprawą.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Jeff Davis"
+        }],
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "name": "Rick and Morty",
+        "img": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+        "description": "Amerykański animowany serial telewizyjny dla starszej widowni tworzony przez Justina Roilanda oraz Dana Harmona dla Adult Swim. Produkcja w oryginalnym zamyśle miała być parodią filmu Powrót do przyszłości, stworzoną przez Roilanda na potrzeby festiwalu filmowego Channel 101. Serial opowiada o przygodach ekscentrycznego, uzależnionego od alkoholu naukowca Ricka Sancheza, któremu towarzyszy jego wnuk Morty. Bohaterowie podróżują po odległych galaktykach oraz alternatywnych rzeczywistościach. W późniejszych odcinkach, sporadycznie towarzyszą im również rodzice Morty’ego: Beth i Jerry oraz jego siostra Summer. Mieszanka niestabilnego już życia rodzinnego w połączeniu z coraz to nowymi pomysłami szalonego ojca Beth dają produkcję przepełnioną nietuzinkowym, czarnym humorem.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Justina Roilanda, Dana Harmona"
+        }],
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "name": "The Witcher",
+        "img": "https://static.posters.cz/image/1300/plakaty/wiedzmin-the-witcher-teaser-i99116.jpg",
+        "description": "Akcja serialu, osadzonego w inspirowanej średniowieczem krainie znanej jako Kontynent, przedstawia losy wiedźmina Geralta z Rivii (Henry Cavill) – najemnego łowcy potworów, który znajduje swoje przeznaczenie w młodej księżniczce Cirilli (Freya Allan) i czarodziejce Yennefer (Anya Chalotra). Pierwsza seria zrealizowana została na podstawie wybranych opowiadań ze zbiorów Miecz przeznaczenia i Ostatnie życzenie, które poprzedzają tzw. sagę o wiedźminie i zostały wykorzystane do zarysowania poszczególnych postaci, zanim po raz pierwszy spotkają się ze sobą.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Lauren Schmidt Hissrich"
+        }],
+        "rating": 5
+      },
+      {
+        "id": 4,
+        "name": "Sherlock",
+        "img": "https://i.pinimg.com/736x/48/d2/69/48d2694687a498059cf9786503184a43.jpg",
+        "description": "John Watson (Martin Freeman) jest lekarzem i kapitanem brytyjskiej armii. Niedawno powrócił z Afganistanu, gdzie został ranny. Ma trudności z przystosowaniem się do życia w cywilu. Na dodatek wojskowa emerytura nie wystarcza mu na samodzielne wynajęcie mieszkania w Londynie.Sherlock potrafi odróżnić programistę komputerowego po krawacie, a pilota samolotów po jego kciuku. Ma niezwykły, jedyny na świecie analityczny umysł, który pozwala mu bezbłędnie rozwiązywać najtrudniejsze zagadki kryminalne. Kiedy w jego życiu pojawia się John Watson od razu widać, ze mężczyźni różnią się od siebie właściwie wszystkim. Okazuje się jednak, że intelekt Sherlocka razem z pragmatyzmem Johna tworzą niezrównane połączenie. ",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Steven Moffat, Mark Gatiss"
+        }],
+        "rating": 5
+      },
+      {
+        "id": 5,
+        "name": "Lucyfer",
+        "img": "https://assets.upflix.pl/media/plakat/2016/lucifer__300_427.jpg",
+        "description": "Lucyfer, jeden z synów Boga, upadły anioł i władca piekła, znudzony swoim dotychczasowym, wiecznym istnieniem postanawia opuścić zaświaty. Przybiera postać atrakcyjnego mężczyzny po trzydziestce, o nazwisku Lucyfer Morningstar (co jest zbitką łacińskiej i angielskiej nazwy Gwiazdy Porannej) i zamieszkuje w Los Angeles, gdzie kupuje luksusowy klub nocny. Zachowuje przy tym całą nadprzyrodzoną moc. Początkowo wiedzie życie bogatego i cynicznego hedonisty. Gdy pod jego klubem zostaje zastrzelona zaprzyjaźniona z nim dziewczyna, Lucyfer poznaje prowadzącą śledztwo policyjną detektyw Chloe Decker. Choć początkowo dzieli ich wszystko, z czasem nawiązuje się między nimi relacja, która z jednej z strony wystawia na próbę dotychczasowy światopogląd niewierzącej w diabła Chloe, a z drugiej strony sprawia, iż Pan Piekła zaczyna stopniowo rewidować swoją bardzo nieprzychylną dotąd opinię o ludzkości. Lucyfer zaczyna pomagać policji w rozwiązywaniu spraw kryminalnych i ściganiu zbrodniarz.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Tom Kapison"
+        }],
+        "rating": 5
+      },
+      {
+        "id": 6,
+        "name": "Izombie",
+        "img": "https://i.pinimg.com/originals/7e/dd/3f/7edd3fb9d874c63a1cf068dd37071328.jpg",
+        "description": "iZombie to produkcja autorstwa Roba Thomasa (Weronika Mars) oparta na bohaterach stworzonych przez Chrisa Robertsona i Michaela Allerda w komiksach Vertigo/DC. Projekt określany jest jako nadnaturalny, kryminalny dramat proceduralny skupiający się na studentce medycyny będącej zombie. Rozpoczyna ona pracę w biurze koronera, gdzie ma swobodny dostęp do mózgów, które musi zjadać by utrzymać swoje człowieczeństwo. Razem z każdym mózgiem wchłania wspomnienia zwłok, które pomagają policyjnym detektywom w rozwiązywaniu kryminalnych spraw.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Diane Ruggiero-Wright, Rob Thomas"
+        }],
+        "rating": 5
+      },
+      {
+        "id": 7,
+        "name": "How I Met Your Mother",
+        "img": "https://assets.upflix.pl/media/plakat/2005/jak-poznalem-wasza-matke__300_427.jpg",
+        "description": "W roku 2030, Ted Mosby postanawia opowiedzieć córce i synowi historię o tym, jak poznał ich matkę. Historia ta zaczyna się w roku 2005. Ted (Josh Radnor), 27 letni, samotny architekt mieszka z dwójką swoich najlepszy przyjaciół Marshallem Eriksenem (Jason Segel), studentem prawa i jego dziewczyną Lily Aldrin (Alyson Hannigan),która jest przedszkolanką.Są oni parą od prawie 9 lat. W pierwszym odcinku Marshall ma zamiar oświadczyć się Lilly. To wydarzenia sprawia, że Ted zaczyna myśleć o małżeństwie i odnalezieniu swojej drugiej połówki. W tych poszukiwaniach pomaga mu drugi przyjaciel Barney Stinson (Neil Patrick Harris). Stosuje on grę, którą wymyślił aby przedstawiać Teda kobietom: “Cześć, czy poznałaś Teda?” W ten sposób główny bohater poznaje młodą, ambitną dziennikarkę Robin Scherbatsky (Cobie Smulders),która dołącza do grupki przyjaciół.Ted dość szybko zakochuje się w Robin.Jest przekonany, że właśnie odnalazł swoją prawdziwą miłość,jednak los szykuje mu wiele niespodzianek. Jak się okazuje się historia o tym jak Ted poznał matkę swoich przyszłych dzieci nie jest ani tak prosta, ani tak krótka jakby to mogło się wydawać. Zanim opowieść dojdzie do końca grupkę przyjaciół czeka wiele przygód, komicznych sytuacji i zawirowań...",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Rob Greenberg, Pamela Fryman"
+        }],
+        "rating": 5
+      },
+      {
+        "id": 8,
+        "name": "Big Mouth",
+        "img": "https://i1.fdbimg.pl/qru0umy1/1500x2224_pff4mn.jpg",
+        "description": "Serial Big Mouth skupia się na przyjaciołach z prawdziwego życia, Nicku Krollu i Andrew Goldbergu, którzy przeżywają przygody z okresu dojrzewania.I to w pobliżu tego tematu kręci się cała fabuła. Najważniejsi bohaterowie przeżywają swoje pierwsze miłości, problemy z rodzicami, trudności w szkole, kryzysy towarzyskie.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Joel Moser, Bryan Francis"
+        }],
+        "rating": 5
+      },
+      {
+        "id": 9,
+        "name": "Good Girls",
+        "img": "https://i.pinimg.com/originals/b1/1e/a7/b11ea771aa42dfc44227aaf098c4bf08.jpg",
+        "description": "Fabuła serialu skupia się na trzech tytułowych „dobrych dziewczynach” – matkach i żonach w ułożonych amerykańskich rodzinach, które pewnego dnia zwyczajnie mają dość i postanawiają zawalczyć o swoje. Główne bohaterki to zdradzona Beth, jej najlepsza przyjaciółka Ruby oraz siostra Beth, Annie. Kobiety postanawiają dać upust emocjom, a ich nowy rozdział rozpoczyna się od napadu na supermarket.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Jenna Bans, Avi Nir"
+        }],
+        "rating": 5
+      },
+      {
+        "id": 10,
+        "name": "Dirk Gently's Holistic Detective Agency",
+        "img": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2017/08/dirk-gently-poster-392x600.jpg?q=50&fit=crop&w=392&dpr=1.5",
+        "description": "Adaptacja książki Douglasa Adamsa, autora słynnego Autostopu przez galaktykę. Fabuła opowiada o detektywie, który zajmuje się sprawami z udziałem sił nadprzyrodzonych.Pokręconą, absurdalną opowieścią o pewnym detektywie i jego “asystencie”, którzy decydują się rzucić w wir wydarzeń, jakie przygotował dla nich wszechświat.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Paco Cabezas, Tamra Davis, Michael Patrick Jann"
+        }],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "platformName": "Spotify",
+    "platformItems": [
+      {
+        "id": 1,
+        "name": "Harry Styles",
+        "img": "https://media.vanityfair.com/photos/5da0c38748ce810008eca971/1:1/w_1333,h_1333,c_limit/harry-styles-new-song.jpg",
+        "description": "Harry Edward Styles (ur. 1 lutego 1994 w Redditch) – brytyjski piosenkarz, autor tekstów, muzyk, model, aktor i producent filmowy. W latach 2010–2016 wokalista boys bandu One Direction, z którym wydał pięć albumów studyjnych: Up All Night (2011), Take Me Home (2012), Midnight Memories (2013), Four (2014) i Made in the A.M. (2015). Od 2016 artysta solowy, wydał dwa albumy studyjne Harry Styles (2017), z którym dotarł na pierwsze miejsce list najczęściej kupowanych płyt w Wielkiej Brytanii, Irlandii i Australii oraz Fine Line (2019).",
+        "metadata":[ {
+          "name": "Ulubione piosenki",
+          "value": " \"Woman\",\"She\",\"Only Angel\" "
+        }]
+      },
+      {
+        "id": 2,
+        "name": "Little Mix",
+        "img": "https://media1.popsugar-assets.com/files/thumbor/ekIny6qGifFlPUEG-AsUq6TqZfc/873x0:5284x4411/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/07/21/629/n/29590734/8b0699675f16f658101f49.28228647_/i/little-mix-choose-kindness-simple-campaign-interview-2020.jpg",
+        "description": "Little Mix – brytyjski żeński zespół wokalny założony w 2011, w którego skład wchodzą Jade Thirlwall, Perrie Edwards i Leigh-Anne Pinnock. Zwyciężczynie ósmego sezonu programu telewizyjnego The X Factor w 2011.14 grudnia 2020 roku Jesy Nelson ogłosiła swoje odejście z zespołu, co uargumentowała zbyt dużą presją, która negatywnie wpłynęła na jej zdrowie psychiczne. Piosenkarka zmagała się z problemami na tym tle od wielu lat",
+        "metadata":[ {
+          "name": "Ulubione piosenki",
+          "value": "\"F.U\",\"Sweet Melody\",\"Woman's World\" "
+        }]
+      },
+      {
+        "id": 3,
+        "name": "Mata",
+        "img": "https://samequizy.pl/wp-content/uploads/2020/03/filing_images_6e176b5e4b89.jpg",
+        "description": "Pod pseudonimem artystycznym Mata kryje się Michał Matczak (rocznik 2000), absolwent Liceum Ogólnokształcącego im. Stefana Batorego w Warszawie, w którym zdawał maturę międzynarodową. Raper wydał swój debiutancki album „100 dni do matury” 17 stycznia 2020 roku w wydawnictwie SBM Label. W zapowiedzi przekonywano, że cała płyta to zbiór najróżniejszych emocji, jakie przeżywa młody człowiek. Do sprawdzania krążka jednak nie trzeba było specjalnie zachęcać odbiorców, ponieważ licznik wyświetleń utworu „Patointeligencja” już po kilku dniach od premiery przekroczył miliony.",
+        "metadata":[ {
+          "name": "Ulubione piosenki",
+          "value": "\"Tango\",\"Piszę to na matmie\",\"Mata Montana\" "
+        }]
+      },
+      {
+        "id": 4,
+        "name": "5 Seconds of Summer",
+        "img": "https://static.ising.pl/artists/500/3314.jpg",
+        "description": "5 Seconds of Summer (5SOS) – australijski zespół grający muzykę pop punk/pop rock. Został założony w roku 2011 w Sydney. W skład wchodzą: Luke Hemmings (główny wokal, gitara), Michael Clifford (gitara, wokal), Calum Hood (bas, wokal) oraz Ashton Irwin (perkusja, wokal). Zespół zaczął swoją działalność od publikowania w serwisie YouTube filmów z coverami, które szybko zdobyły popularność. Międzynarodową sławę zdobyli, gdy członkowie zespołu One Direction zaprosili ich do uczestniczenia w trasie koncertowej Take Me Home Tour. W lutym 2014 roku wydali singiel „She Looks So Perfect”, który zdobył szczyty list przebojów w Australii, Nowej Zelandii, Irlandii i Wielkiej Brytanii. Ich pierwszy album 5 Seconds of Summer został wydany 27 czerwca 2014 roku i osiągnął pierwsze miejsce w 11 państwach. W grudniu 2014 roku wydali koncertową wersję albumu LIVESOS. 23 października 2015 roku ukazał się ich drugi album Sounds Good Feels Good. W lipcu 2016 roku zespół wydał singiel zatytułowany 'Girls Talk Boys'. Piosenka znalazła się na oficjalnej ścieżce dźwiękowej do filmu Ghostbusters. Po trzyletniej przerwie, 22 czerwca 2018 roku zespół wydał trzeci studyjny album Youngblood. Dwa lata później - czwarty, o tytule 'CALM', który miał premierę 27 marca 2020 roku. ",
+        "metadata":[ {
+          "name": "Ulubione piosenki",
+          "value": "\"Teeth\",\"Valentine\",\"Empty Wallets\" "
+        }]
+      },
+      {
+        "id": 5,
+        "name": "Doja Cat",
+        "img": "https://cdn.galleries.smcloud.net/t/galleries/gf-h4TV-mmKR-S2xw_doja-cat-664x442-nocrop.jpeg",
+        "description": "Amalaratna Zandile Dlamini (ur. 21 października 1995), znana jako Doja Cat – amerykańska raperka, wokalistka, autorka tekstów oraz producentka muzyczna. Podpisała kontrakt z wytwórnią muzyczną RCA Records w 2014 roku, następnie wydając jej debiutancką EP-kę, Purr! oraz kilka singli, m.in. 'Tia Tamera' oraz 'Go To Town'. Zyskała szczególną popularność w 2018 singlem 'Mooo!', który stał się internetową sensacją. Dlamini wydała swój debiutancki album studyjny Amala w 2018. Wydała singel 'Juicy' w sierpniu 2019 r., który zadebiutował pod numerem 83. na amerykańskiej liście Billboard Hot 100, umieszczając artystkę po raz pierwszy na liście przebojów. W listopadzie 2019 roku Doja Cat wydała swój drugi album studyjny, Hot Pink.",
+        "metadata":[ {
+          "name": "Ulubione piosenki",
+          "value": "\"Streets\",\"Best Friend\",\"Rules\" "
+        }]
+      },
+      {
+        "id": 6,
+        "name": "Taco Hemmingway",
+        "img": "https://bi.im-g.pl/im/9f/f3/18/z26162079V,Taco-Hemingway.jpg",
+        "description": "Taco Hemingway (dawniej FV), właśc. Filip Tadeusz Szcześniak (ur. 29 lipca 1990 w Kairze) – polski raper oraz autor tekstów. Członek duetu Taconafide i właściciel wytwórni 2020.Raper jest twórcą takich przebojów jak „6 zer”, „Następna stacja”, „Deszcz na betonie”, „Nostalgia”, „Tamagotchi” czy „Fiji”. Wszystkie te utwory trafiały na listy przebojów w polskich radiach. Pomimo ogromnej popularności artysta mało udziela się medialnie, rzadko udziela wywiadów (nie udzielił nigdy wywiadu przed kamerą) oraz nie występuje w reklamach.Jedenastokrotnie nominowany do nagrody Fryderyków w latach 2016–2020, w tym cztery razy laureat w kategorii Album roku hip-hop (za płyty Umowa o dzieło, Szprycer, Soma 0,5 mg, Pocztówka z WWA), w tym jako jedyny artysta zdobył nagrodę trzy razy z rzędu. W 2019 roku raper został umieszczony na 10 miejscu Najbardziej wpływowych Polaków 2019 według dziennika Wprost[16]. Muzyk jednak nie przykłada większej uwagi do nagród i nie odebrał żadnego z przyznanych mu wyróżnień",
+        "metadata":[ {
+          "name": "Ulubione piosenki",
+          "value": "\"Polskie tango\",\"W.N.P\",\"POL Smoke\" "
+        }]
+      },
+      {
+        "id": 7,
+        "name": "Queen",
+        "img": "https://cdn.koncertomania.pl/file/eventmediabackup/300/1/1543847095rCmeMGKzeT7FAcpFqL2xaHsyRsSHUg.jpg",
+        "description": "Queen – brytyjski zespół rockowy utworzony w 1970 w Londynie przez Briana Maya, Rogera Taylora i Freddiego Mercury’ego. Basista John Deacon dołączył do grupy rok później. Muzyka Queen odznacza się różnorodnością brzmienia, sprawiającą, że zespół trudno jest przypisać do konkretnego stylu. Większość utworów nosi cechy rocka i jego odmian (hard rock, art rock, rock progresywny) oraz, w pewnym stopniu, muzyki pop. Charakterystyczną cechą zespołu są też wielowarstwowe aranżacje, harmonie wokalne oraz aktywny udział publiczności podczas koncertów. W 2001 grupa Queen została wprowadzona do Rock and Roll Hall of Fame w USA, a 11 listopada 2004 do Hall of Fame w Wielkiej Brytanii. W 2007 Queen została wybrana najlepszą brytyjską grupą wszech czasów przez słuchaczy BBC Radio 2",
+        "metadata":[ {
+          "name": "Ulubione piosenki",
+          "value": "\"Bohemian Rhapsody\",\"Killer Queen\",\"Somebody To Love\" "
+        }]
+      },
+      {
+        "id": 8,
+        "name": "Organek",
+        "img": "https://bi.im-g.pl/im/c8/03/17/z24129992V.jpg",
+        "description": "Tomasz Organek – polski muzyk, kompozytor, piosenkarz i autor tekstów. Członek Akademii Fonograficznej ZPAV, współzałożyciel i członek zespołu SOFA, twórca projektu Ørganek.",
+        "metadata":[ {
+          "name": "Ulubione piosenki",
+          "value": "\"Niemiłość\",\"Głupi ja\",\"Mississipi w Ogniu\" "
+        }]
+      },
+      {
+        "id": 9,
+        "name": "Falinng in Reverse",
+        "img": "https://redefined.s3.us-east-2.amazonaws.com/wp-content/uploads/2020/04/22050956/FallingInReverse_PressPhoto.jpg",
+        "description": "Falling in Reverse – amerykański zespół post-hardcorowy.Ronnie Radke został wyrzucony z własnego zespołu Escape The Fate przez Maxa Greena, w czerwcu 2008 roku został skazany na 4 lata więzienia ( z możliwością skrócenia do 2 lat). W czasie pobytu w zakładzie karnym, dokładnie 3 grudnia 2008 założył zespół Falling In Reverse (początkowo nazwa miała brzmieć From Behind These Walls). W tym okresie zespół nagrał płytę demo i jedną piosenkę. Wokalista wyszedł z więzienia pod koniec grudnia 2010 roku. Zespół podpisał kontrakt z Epitaph Records 26 lipca 2011 roku ukazał się debiutancki album The Drug in Me Is You. Raised by Wolves, The Drug in Me Is You, i I'm Not a Vampire były wydane jako single w celu promowania albumu. ",
+        "metadata":[ {
+          "name": "Ulubione piosenki",
+          "value": "\"Fashonably Late\",\"Drugs\",\"I'm not Vampire\" "
+        }]
+      },
+      {
+        "id": 10,
+        "name": "Nicki Minaj",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nicki-minaj-attends-the-2017-mtv-video-music-awards-at-the-news-photo-1601573344.jpg?crop=0.668xw:1.00xh;0.332xw,0&resize=640:*",
+        "description": "Onika Tanya Maraj-Petty, znana też jako Nicki Minaj – amerykańska raperka, piosenkarka, autorka tekstów piosenek, modelka i aktorka pochodzenia trynidadzkiego. Zdobyła uznanie, wydając od 2007 do 2009 mixtape’y, a później podpisując kontrakt z wytwórnią Young Money Entertainment w 2009.Wydała cztery albumy studyjne: Pink Friday (2010), Pink Friday: Roman Reloaded (2012), The Pinkprint (2014) i Queen (2018). Z pierwszymi trzema płytami dotarła do pierwszego miejsca notowania Billboard 200. W 2010 została pierwszą solową artystką, której siedem singli było równocześnie notowanych na liście Billboard Hot 100. Od początku kariery sprzedała ponad 40 mln singli na świecie jako solistka, 60 mln jako gość, i 5 mln albumów.",
+        "metadata":[ {
+          "name": "Ulubione piosenki",
+          "value": "\"Good Form\",\"I'm Legit\",\"Chun-Li\" "
+        }]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "platformName": "HBO GO",
+    "platformItems": [
+      {
+        "id": 1,
+        "name": "Fantastyczne zwierzęta i jak je znaleźć",
+        "img": "https://image.ceneostatic.pl/data/products/50478044/i-fantastyczne-zwierzeta-i-jak-je-znalezc-dvd.jpg",
+        "description": "Jest to seria filmów opartych na książce Fantastyczne zwierzęta i jak je znaleźć. Fabuła pierwszego filmu kręci się wokół Newtona Skamandera, magizoologa, który pojawia się w Nowym Jorku w 1926 roku. Zatrzymuje się w mieście na krótki czas podczas swojej podróży dookoła świata, gdzie bada stworzenia do swojej książki. Newton jest właścicielem magicznej walizki. Zawiera ona wiele magicznych stworzeń, które mugol Jacob Kowalski nieumyślnie otwiera. Z walizki ucieka wiele stworzeń. Sytuacja jest na tyle poważna, że grozi ujawnieniu tajemnicy świata czarodziejów oraz relacji między magicznymi i niemagicznymi społeczeństwami w Ameryce.Newt z pomocą Jacoba i Porpentyny Tiny Goldstein szuka stworzeń, zanim będzie za późno. Zaś Perciwal Graves szuka jego. Akcja filmu rozgrywa się w ciągu dwóch dni. Akcja drugiego filmu miała miejsce w Paryżu, we Francji. Rozgrywa się wokół Gellerta Grindelwalda, który został wspomniany kilka razy w pierwszym filmie. Grindelwald był najgroźniejszym czarnoksiężnikiem swojej epoki. W filmie również wystąpi Albus Dumbledore.Historia filmów rozgrywa się w latach 1926-1945. ",
+        "metadata":[ {
+          "name": "Author",
+          "value": "David Yates"
+        }],
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "name": "Euforia",
+        "img": "https://fwcdn.pl/fpo/07/51/810751/7938112.3.jpg",
+        "description": "Serial opowiada o życiu i problemach grupy uczniów szkoły średniej, którzy próbują radzić sobie z narkotykami, seksem i przemocą, starając się zrozumieć niepewną przyszłość. Nastolatka zakończyła niedawno odwyk i zastanawia się nad swoją przyszłością. Jej życie gwałtownie się zmienia, kiedy poznaje Jules Vaughn, transseksualną dziewczynę, która niedawno przeprowadziła się do miasta po rozwodzie swoich rodziców i podobnie jak Rue szuka swojego miejsca na Ziemi.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Sam Levinson"
+        }]
+      },
+      {
+        "id": 3,
+        "name": "Joker",
+        "img": "https://fwcdn.pl/fpo/01/67/810167/7905225.3.jpg",
+        "description": "Amerykański dramat psychologiczny na podstawie serii komiksów o postaci o tym samym imieniu wydawnictwa DC Comics. Strudzony życiem komik popada w obłęd i staje się psychopatycznym mordercą.To historia przemocy, historia szaleństwa, historia udręczenia. Arthur, w którego przedobrze wcielił się Joaquin Phoenix, to bohater odsunięty poza margines społeczeństwa, który żyje we własnym świecie marzeń o karierze, szczęściu i miłości. O normalnych i należnych każdemu rzeczach. Jednak im dłużej te rzeczy nie przychodzą, tym bardziej bohater się frustruje i zapada w wyimaginowanym świecie, w którym nikt go nie skrzywdzi, w którym nie ma nic do stracenia i wszystko może osiągnąć. Każdy kolejny cios głębiej wpycha go w tę rzeczywistość, aż w pewnym momencie coś w nim pęka, a później eksploduje i z poczciwego, acz zagubionego Arthura przeistacza się w łaknącego krwi Jokera, który chce, by inni zobaczyli i poczuli gorzki smak jego mizerii.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Todd Phillips"
+        }]
+      },
+      {
+        "id": 4,
+        "name": "Hustlers",
+        "img": "https://m.media-amazon.com/images/M/MV5BNjM5ZTNiNGMtMDA2OC00MDYyLWEyNzAtOWZmMzFlY2VmOWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "description": "Dziewczyny pracujące w jednym z najmodniejszych klubów go-go w Nowym Jorku tracą wszystkie oszczędności w wyniku krachu finansowego 2008 roku. Cały świat za kryzys wini nadzianych finansistów z Wall Street, którzy są częstymi gośćmi klubu. Szastają kasą niczym Wilki z Wall Street, podczas gdy ofiary ich machinacji nie mają z czego żyć. Dziewczyny postanawiają wymierzyć im sprawiedliwość i odzyskać stracone pieniądze. Pod wodzą pięknej i znającej życie Ramony organizują błyskotliwy przekręt. Wykorzystując swoje wdzięki i znajomość męskiej psychiki, sprawiają, że rekiny finansjery łykają przynętę jak płotki. Kasa płynie szerokim strumieniem, a dziewczyny rzucają się w wir szalonego i rozrzutnego życia. Wkrótce zachłyśnięte sukcesem i słodkim smakiem zemsty zaczynają tracić czujność.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Lorene Scafaria"
+        }]
+      },
+      {
+        "id": 5,
+        "name": "Zaplątani",
+        "img": "https://image.ceneostatic.pl/data/products/10695918/i-zaplatani-tangled-dvd.jpg",
+        "description": "Roszpunka, bohaterka filmu „Zaplątani”, to piękna, ale samotna dziewczyna. Kolejne lata życia spędza uwięziona w wysokiej wieży, a wszystko z powodu intrygi jej złej matki Gertrudy. Roszpunka ma jednak asa w rękawie. Jej długie na dwadzieścia metrów złote włosy posiadają magiczną moc. Gdy do wieży dostaje się czarujący Flynn Rajtar, księżniczka bierze los we własne ręce i postanawia uciec razem ze złodziejaszkiem.",
+        "metadata":[ {
+          "name": "Author",
+          "value": " Nathan Greno"
+        }]
+      },
+      {
+        "id": 6,
+        "name": "Wampiry: Dziedzictwo",
+        "img": "https://static.wikia.nocookie.net/tvd/images/3/30/20210116_115013.jpg/revision/latest?cb=20210116105253&path-prefix=pl",
+        "description": "Nowe, posiadające ponadnaturalne zdolności pokolenie spotyka się w słynnej szkole Salvatore. To właśnie w tym niezwykłym miejscu w dorosłe życie wchodzą 17-letnia córka Klausa Mikaelsona – Hope Mikaelson (Danielle Rose Russell) oraz bliźniaczki będące córkami Alarica Saltzmana (Matthew Davis): Lizzie (Jenny Boyd) i Josie (Kaylee Bryant). W Salvatore nie brakuje też innych nastolatków, którzy na przekór własnej naturze pilnie uczą się i doskonalą. Produkcja jest kontynuacją takich hitów jak pt. Pamiętniki wampirów oraz The Originals.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Julie Plec"
+        }]
+      },
+      {
+        "id": 7,
+        "name": "Stewardessa",
+        "img": "https://fwcdn.pl/fpo/80/73/858073/7935852.3.jpg",
+        "description": "Humorystyczny thriller HBO Max prezentuje nam postać graną przez Kaley Cuoco, która wcieli się w nietypową, piękną, stewardessę, która doskonale radzi sobie w pracy, przy której często zwiedza wiele wyjątkowych miejsc na całym świecie. Kobieta ma sporą wadę, w postaci nie radzenia sobie z alkoholem.O ile często skutecznie jej udaje się uniknąć problemów, o tyle jednak ta jedna noc całkowicie zmieni jej życie. Budzi się rano, tak to kolejny ciężki poranek, jednakże... tym razem odnajduje swojego martwego towarzysza nocy!\nBohaterka zostaje przesłuchana przez policję oraz służby, dzięki czemu możemy wraz z nią przenieść się do przeszłości, aby krok po kroku dowiedzieć się co się tak naprawdę stało i kto zabił jej kochanka.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Kaley Cuoco, Greg Berlanti"
+        }]
+      },
+      {
+        "id": 8,
+        "name": "Aniołki Charliego",
+        "img": "https://fwcdn.pl/fpo/44/75/754475/7922335.3.jpg",
+        "description": "Amerykański komediowy film akcji z 2019 roku w reżyserii Elizabeth Banks. Sabina Wilson (Kristen Stewart), Elena Houghlin (Naomi Scott) i Jane Kano (Ella Balinska) pracują dla tajemniczego Charlesa Townsenda, którego agencja ochroniarsko-śledcza rozszerzyła swoją działalność na cały glob. Najmądrzejsze, najodważniejsze i najlepiej wyszkolone kobiety na całym świecie tworzą zespoły Aniołków kierowane przez wielu Bosleyów. Każdy z nich podejmuje się najtrudniejszych zadań, aby walczyć z niesprawiedliwością.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Elizabeth Banks"
+        }]
+      },
+      {
+        "id": 9,
+        "name": "Wielka",
+        "img": "https://fwcdn.pl/fpo/75/56/837556/7920387.3.jpg",
+        "description": "Amerykański komediodramat serialowy luźno oparty na początkach zdobywania władzy przez późniejszą Katarzynę II Wielką, graną przez Elle Fanning w parze z Nicholasem Houltem odgrywającym rolę cesarza Rosji.Wielka to satyryczny, komediowy dramat opowiadający o drodze Katarzyny Wielkiej z pozycji przybyłej na dwór rosyjski z zagranicy młodej małżonki do najdłużej panującej władczyni w historii Rosji. Seria jest fabularyzowany i przedstawia Katarzynę w młodości i w małżeństwie z carem Piotrem III, skupiającą się na spisku mającym na celu zabicie jej zdeprawowanego i niebezpiecznego męża.Nie wszystkie wydarzenia pokazane w serialu wydarzyły się naprawdę, niektóre zaś wydarzyły się, ale np. w innych okolicznościach, przy udziale innych osób w innym czasie",
+        "metadata":[ {
+          "name": "Author",
+          "value": " Tony McNamara"
+        }]
+      },
+      {
+        "id": 10,
+        "name": "Pokémon: Detektyw Pikachu",
+        "img": "https://ecsmedia.pl/c/pokemon-detektyw-pikachu-b-iext55054892.jpg",
+        "description": "Amerykańsko-japońsko-kanadyjski film fabularny z 2019 roku w reżyserii Roba Lettermana, powstały na podstawie serii Pokémon Satoshiego Tajiri oraz gry Detective Pikachu z 2016 roku. Prywatny detektyw Harry Goodman znika w niewyjaśnionych okolicznościach, a jego 21-letni syn Tim (Justice Smith) próbuje ustalić, co się dokładnie stało. W śledztwie pomaga mu były partner Harry'ego – przezabawny i pełen uroku detektyw Pikachu.",
+        "metadata":[ {
+          "name": "Author",
+          "value": "Rob Letterman"
+        }]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "platformName": "YouTube",
+    "platformItems": [
+      {
+        "id": 1,
+        "name": "BasicallyIDoWrk",
+        "img": "https://static.wikia.nocookie.net/youtube/images/7/74/Marcel_Cunningham.jpg/revision/latest?cb=20190323120929",
+        "description": "Marcel Cunningham (urodzony: 8 maja 1990), znany online jako BasicallyIDoWrk, jest amerykańskim YouTuberem i komentatorem gier wideo z Orlando na Florydzie. Kanał Marcela ma ponad 4 miliony subskrybentów. Przeważnie wstawia filmy z znanych gier takich jak: Gmod, Grand Theft Auto 5, Skribbl.io i Minecraft, Among us, a od czasu do czasu przesyła filmy z prawdziwego życia.",
+        "metadata":[ {
+          "name": "Liczba ",
+          "value": "Rob Letterman"
+        }]
+      },
+      {
+        "id": 2,
+        "name": "BigPuffer",
+        "img": "https://celebslifereel.com/wp-content/uploads/2020/12/Big-Puffer.jpg",
+        "description": "BigPuffer to amerykański youtuber do gier, znany z niedawnej współpracy z popularną ekipą Vanoss Crew. Uważany jest za najnowszego członka załogi, który po raz pierwszy pojawił się w teledysku Among Us w drugiej połowie 2020 roku, jednak nadal jest uważany za członka, ponieważ pojawił się później w wielu filmach, w tym w Among Us i Minecraft Purge.",
+        "metadata":[ {
+          "name": "Liczba ",
+          "value": "Rob Letterman"
+        }]
+      },
+      {
+        "id": 3,
+        "name": "SMii7Y",
+        "img": "https://i.pinimg.com/originals/7a/50/d8/7a50d8a6a2f005510cc3fd5aae1ec71c.jpg",
+        "description": "Jaren Daniel Smith (urodzony: 29 kwietnia 1997), znany online jako SMii7Y, kanadyjski YouTuber i komentator gier wideo z Windsor w Ontario. Przed i na początku swojej kariery na YouTube interesował się projektowaniem graficznym, projektował dzieła sztuki i inne projekty. Jego logo, kultowa torebka na mleko, z której jest znany, został zaprojektowany przez niego samego. Battlefield 3 była pierwszą grą na jego kanale. Jego drugi kanał, SMii7Yplus (dla klipów na żywo), powstał 13 czerwca 2020 roku\n",
+        "metadata":[ {
+          "name": "Liczba ",
+          "value": "Rob Letterman"
+        }]
+      },
+      {
+        "id": 4,
+        "name": "WildCat",
+        "img": "https://pbs.twimg.com/profile_images/1046790248859152384/aR1EyPP9.jpg",
+        "description": "Tyler Wine (urodzony: 14 września 1992), lepiej znany w Internecie jako WILDCAT (dawniej I AM WILDCAT), to amerykański YouTuber i komentator gier wideo z Indiany. Jest znany ze swojego świszczącego śmiechu, eksplodującej wściekłości, a przede wszystkim z Let's Play'ów i gier.",
+        "metadata":[ {
+          "name": "Liczba ",
+          "value": "Rob Letterman"
+        }]
+      },
+      {
+        "id": 5,
+        "name": "Naomi Jon",
+        "img": "https://i.pinimg.com/originals/c0/04/9c/c0049cdcb053f4d533f3fc021b9535d9.jpg",
+        "description": "Twórczyni kreatywnych treści w internecie, która stała się najbardziej znana ze swojego kanału naomijon TikTok, który oprócz zdobycia korony weryfikacyjnej zdobył ponad 2,5 miliona fanów. Jest także guru od urody i makijażu. Publikuje w YouTube samouczki makijażowe i codzienne filmiki. ",
+        "metadata":[ {
+          "name": "Liczba ",
+          "value": "Rob Letterman"
+        }]
+      },
+      {
+        "id": 6,
+        "name": "Tana Mongeau",
+        "img": "https://www.lifeandstylemag.com/wp-content/uploads/2020/03/Tana-Mongeau-Selfie-Inline-2.jpg",
+        "description": "Tana Marie Mongeau (ur. 24 czerwca 1998) to amerykańska osobowość internetowa, muzyk i modelka. Jest znana z filmików na których opowiada historie i podobnych filmów komediowych. Po dołączeniu na YouTube Mongeau szybko zyskała subskrybentów. Współpracowała z innymi YouTuberami, takimi jak Jonah Green, Cody Ko, Polina Beregova, Channon Rose i Ricky Dillon.",
+        "metadata":[ {
+          "name": "Liczba ",
+          "value": "Rob Letterman"
+        }]
+      },
+      {
+        "id": 7,
+        "name": "Krzysztof Gonciarz",
+        "img": "https://www.press.pl/images/contents/photo_64421_1609760892_big.png",
+        "description": "Polski publicysta, podróżnik, vloger i autor książek. Były dziennikarz portalu Gry-Online. Obecnie znany jest za sprawą prowadzenia dwóch kanałów w serwisie YouTube: komediowego Zapytaj Beczkę oraz wideobloga Krzysztof Gonciarz. W lutym 2018 roku Krzysztof Gonciarz nawiązał współpracę ze stacją telewizyjną Eurosport, dzięki czemu podczas zimowych igrzysk olimpijskich w Pyeongchangu stworzył 20 filmów, których celem było zaprezentowanie Igrzysk „od kuchni” oraz pokazanie, jak na co dzień wygląda życie polskich olimpijczyków.",
+        "metadata":[ {
+          "name": "Liczba ",
+          "value": "Rob Letterman"
+        }]
+      },
+      {
+        "id": 8,
+        "name": "James Charles",
+        "img": "https://img.wprost.pl/_thumb/cf/ce/354932d7955982b0a36b7cdd774a.jpeg",
+        "description": "James Charles Dickinson (ur. 23 maja 1999 r. Jest YouTuberem, wizażystą, modelem i vlogerem. Był pierwszym męskim modelem marki kosmetycznej CoverGirl, współpracując z ambasadorką marki i piosenkarką i autorką tekstów Katy Perry. Pojawił się także w TheEllenShow na 14 listopada 2016 r.",
+        "metadata":[ {
+          "name": "Liczba ",
+          "value": "Rob Letterman"
+        }]
+      },
+      {
+        "id": 9,
+        "name": "NikkieTutorials",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/49858138-2380486175507612-3902454517287974712-n-1582650016.jpg",
+        "description": "Nikkie de Jager (ur. 2 marca 1994 r.), Lepiej znana pod nazwą kanału YouTube NikkieTutorials, to holenderska transpłciowa makijażystka i vlogerka urody urodzona w Wageningen w Holandii. Od października 2020 roku jej kanał zyskał ponad 13 milionów subskrybentów, co czyni go czwartym najczęściej subskrybowanym kanałem YouTube w Holandii.",
+        "metadata":[ {
+          "name": "Liczba ",
+          "value": "Rob Letterman"
+        }]
+      },
+      {
+        "id": 10,
+        "name": "Adrianna Grotkowska",
+        "img": "https://yt3.ggpht.com/ytc/AAUvwnghD3XJrhVE0u65HYdrvArzKel5Tl2FJhEUFSh5Ug=s900-c-k-c0x00ffffff-no-rj",
+        "description": "Polska makijażyska, youtuberka i makijażystka. W 2018 zdobyła trzy nagrody w trakcie gali finałowej Ofeminin Beauty Influencer Awards w kategoriach beautygram, beautube oraz Beauty Trendsetter of the Year powered by Sephora. W tym samym roku znalazła się także wśród piątki finalistów konkursu FACE Awards. Jej kanał na Youtube w listopadzie 2018 subskrybowało ponad 200 tys. osób, a na Instagramie obserwowało ją 82 tys. osób.W tym momencie ma ponad 320 tyś subskrybentów oraz 161 tyś obserwujących na IG.",
+        "metadata":[ {
+          "name": "Liczba ",
+          "value": "Rob Letterman"
+        }]
+      }
+    ]
+  }
+]
