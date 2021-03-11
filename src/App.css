@@ -4,6 +4,7 @@
     min-width: 800px;
     margin: auto;
     height: 100vh;
+    background-color: #d98a37;
 }
 
 header.ant-layout-header {
@@ -23,11 +24,13 @@ ul.navMenu {
 
 main.ant-layout-content {
     padding-top: 20px;
+    background-color: rgba(219, 201, 239, 0.55);
 }
 
 main.topContent {
     height: 100px;
     flex: none;
+    background-color: #8B5DF6;
 }
 
 .centered {
@@ -35,12 +38,16 @@ main.topContent {
     margin-bottom: 10px;
     text-align: center;
     font-weight: bold;
-    color: orangered;
+    color: #21064b;
     font-size: x-large;
     font-family: "Yu Gothic UI Semibold";
 }
 
-.ant-layout-sider-light {
+.ant-layout-sider-children {
+    background-color: #655e7b;
+}
+.ant-menu-item-only-child {
+    background-color: #b5acff;
 }
 
 #image {
